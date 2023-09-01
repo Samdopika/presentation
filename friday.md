@@ -47,17 +47,7 @@
 
 ---
 
-## **Diagrams**:
-
-+---------------------+
-| cchdo.ucsd.edu |
-+---------------------+
-|
-| Switch?
-V
-+-----------------+
-| cchdo.io |
-+-----------------+
+![image](files/Users/jzhang/Desktop/Isolated.png)
 
 
 
