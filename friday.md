@@ -47,7 +47,7 @@
 
 ---
 
-![image](Pink Landscape Desktop Wallpaper.gif)
+![image](https://github.com/Samdopika/presentation/blob/main/Pink%20Landscape%20Desktop%20Wallpaper.gif?raw=true)
 
 
 
