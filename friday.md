@@ -29,13 +29,10 @@
 ### 2. **Migration Efforts**
    - Requires efforts like content migration, redirecting links, etc.
 
-### 3. **Cost**
-   - Cost of acquiring and renewing domain.
-
-### 4. **Email Transition**
+### 3. **Email Transition**
    - Need to transition to new email addresses.
 
-### 5. **SEO Risks**
+### 4. **SEO Risks**
    - Risk of search rankings drop if migration is not done correctly.
 
 ---
