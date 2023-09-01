@@ -47,7 +47,7 @@
 
 ---
 
-![image](files/Users/jzhang/Desktop/Isolated.png)
+![image](Pink Landscape Desktop Wallpaper.gif)
 
 
 
